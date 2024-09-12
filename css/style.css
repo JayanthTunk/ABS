@@ -228,7 +228,7 @@ h2 {
 }
 
 .overlay a:hover {
-  color: #2bff00;
+  color: #fd9c6b;
 }
 
 .overlay-content {
@@ -320,16 +320,16 @@ a:focus {
   display: inline-block;
   padding: 10px 45px;
   background-color: transparent;
-  color: #2bff00;
+  color: #fd9c6b;
   border-radius: 5px;
-  border: 1px solid #2bff00;
+  border: 1px solid #fd9c6b;
   -webkit-transition: all .2s;
   transition: all .2s;
   margin-top: 35px;
 }
 
 .slider_section .detail-box .slider-link:hover {
-  background-color: #2bff00;
+  background-color: #fd9c6b;
   color: #ffffff;
 }
 
@@ -396,7 +396,7 @@ a:focus {
 }
 
 .shop_section .box .detail-box h6 span {
-  color: #2bff00;
+  color: #fd9c6b;
 }
 
 .shop_section .box .new {
@@ -432,17 +432,17 @@ a:focus {
 .shop_section .btn-box a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #2bff00;
+  background-color: #ff0000;
   color: #ffffff;
   border-radius: 5px;
-  border: 1px solid #2bff00;
+  border: 1px solid #ff0000;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .shop_section .btn-box a:hover {
   background-color: transparent;
-  color: #2bff00;
+  color: #fd9c6b;
 }
 
 .about_section .row {
@@ -479,17 +479,17 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #2bff00;
+  background-color: #fd9c6b;
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #2bff00;
+  border: 1px solid #fd9c6b;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #2bff00;
+  color: #fd9c6b;
 }
 
 .offer_section .row > div {
@@ -549,16 +549,16 @@ a:focus {
   display: inline-block;
   padding: 8px 40px;
   background-color: transparent;
-  color: #2bff00;
+  color: #fd9c6b;
   border-radius: 0;
-  border: 1px solid #2bff00;
+  border: 1px solid #fd9c6b;
   -webkit-transition: all .2s;
   transition: all .2s;
   margin-top: 10px;
 }
 
 .offer_section .box .detail-box a:hover {
-  background-color: #2bff00;
+  background-color: #fd9c6b;
   color: #ffffff;
 }
 
@@ -719,7 +719,7 @@ a:focus {
 }
 
 .client_section .box .detail-box .name h6 {
-  color: #2bff00;
+  color: #fd9c6b;
   font-size: 20px;
 }
 
@@ -742,7 +742,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 12px;
   background-position: center;
-  background-color: #2bff00;
+  background-color: #fd9c6b;
   background-position: center;
   border-radius: 5px;
   margin: 0 2.5px;
@@ -792,7 +792,7 @@ a:focus {
   outline: none;
   color: #ffffff;
   border: none;
-  border-bottom: 1px solid #2bff00;
+  border-bottom: 1px solid #fd9c6b;
 }
 
 .info_section .info_form form input::-webkit-input-placeholder {
@@ -813,24 +813,24 @@ a:focus {
 
 .info_section .info_form form button {
   background-color: transparent;
-  color: #2bff00;
+  color: #fd9c6b;
   text-transform: uppercase;
   font-size: 12px;
   outline: none;
   border: none;
   display: inline-block;
   padding: 15.5px 25px;
-  background-color: #2bff00;
+  background-color: #fd9c6b;
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #2bff00;
+  border: 1px solid #fd9c6b;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .info_section .info_form form button:hover {
   background-color: transparent;
-  color: #2bff00;
+  color: #fd9c6b;
 }
 
 .info_section .social_box {
@@ -858,8 +858,8 @@ a:focus {
 }
 
 .info_section .social_box a:hover {
-  color: #2bff00;
-  border-color: #2bff00;
+  color: #fd9c6b;
+  border-color: #fd9c6b;
 }
 
 .info_section h4 {
@@ -885,7 +885,7 @@ a:focus {
 }
 
 .info_section .info_links .info_links_menu a:hover {
-  color: #2bff00;
+  color: #fd9c6b;
 }
 
 .info_section .info_insta .insta_box {
@@ -945,7 +945,7 @@ a:focus {
 }
 
 .info_section .info_contact a:hover:hover {
-  color: #2bff00;
+  color: #fd9c6b;
 }
 
 /* footer section*/
